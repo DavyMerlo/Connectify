@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.vs/
+*.vscode/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.dbmdl
+*.log
+*.tmp
+
+# .NET build results
+bin/
+obj/
