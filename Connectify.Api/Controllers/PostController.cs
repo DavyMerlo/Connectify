@@ -70,7 +70,6 @@ namespace Connectify.Api.Controllers
         {
             var postComments = await _service.PostService.GetPostCommentsByAppUserId(appUserId);
             return Ok(postComments);
-            //Test2
         }
     }
 }
