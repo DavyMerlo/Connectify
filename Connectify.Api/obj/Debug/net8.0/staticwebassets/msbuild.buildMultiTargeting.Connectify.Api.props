@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Connectify.Api.props" />
+</Project>
