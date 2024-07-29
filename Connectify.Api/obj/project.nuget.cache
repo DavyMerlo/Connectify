@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qq9wJjroZAA=",
+  "dgSpecHash": "//cF0o/LQAQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\Connectify.Api.csproj",
+  "projectFilePath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\Connectify.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Davy\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Davy\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -1,36 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectifyapp\\connectify.api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectifyapp\\connectify.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectify\\connectify.api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectifyapp\\connectify.api\\mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectify\\connectify.api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectify\\connectify.api\\mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|solutionrelative:mappingprofiles\\requesttodomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectifyapp\\connectify.api\\mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectify\\connectify.api\\mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|solutionrelative:mappingprofiles\\domaintoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C343C4A1-784F-49AE-A8F2-99622E3204C3}|..\\Connectify.DataService\\Connectify.DataService.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectifyapp\\connectify.dataservice\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C343C4A1-784F-49AE-A8F2-99622E3204C3}|..\\Connectify.DataService\\Connectify.DataService.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectifyapp\\connectify.dataservice\\services\\interfaces\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectifyapp\\connectify.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectify\\connectify.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectifyapp\\connectify.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|c:\\users\\davy\\documents\\connectifyapplication\\connectify\\connectify.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E03A0C-7513-4A8A-8512-ECB7D9FADC29}|Connectify.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.DataService\\Services\\CommentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.DataService\\Services\\Interfaces\\ICommentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 751,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,9 +62,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "RequestToDomain.cs",
-              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\MappingProfiles\\RequestToDomain.cs",
+              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\MappingProfiles\\RequestToDomain.cs",
               "RelativeDocumentMoniker": "MappingProfiles\\RequestToDomain.cs",
-              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\MappingProfiles\\RequestToDomain.cs",
+              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\MappingProfiles\\RequestToDomain.cs",
               "RelativeToolTip": "MappingProfiles\\RequestToDomain.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "DomainToResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\MappingProfiles\\DomainToResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\MappingProfiles\\DomainToResponse.cs",
               "RelativeDocumentMoniker": "MappingProfiles\\DomainToResponse.cs",
-              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\MappingProfiles\\DomainToResponse.cs",
+              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\MappingProfiles\\DomainToResponse.cs",
               "RelativeToolTip": "MappingProfiles\\DomainToResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,35 +84,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CommentService.cs",
               "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.DataService\\Services\\CommentService.cs",
-              "RelativeDocumentMoniker": "..\\Connectify.DataService\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ConnectifyApp\\Connectify.DataService\\Services\\CommentService.cs",
               "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.DataService\\Services\\CommentService.cs",
-              "RelativeToolTip": "..\\Connectify.DataService\\Services\\CommentService.cs",
+              "RelativeToolTip": "..\\..\\ConnectifyApp\\Connectify.DataService\\Services\\CommentService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T17:13:39.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ICommentService.cs",
               "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.DataService\\Services\\Interfaces\\ICommentService.cs",
-              "RelativeDocumentMoniker": "..\\Connectify.DataService\\Services\\Interfaces\\ICommentService.cs",
+              "RelativeDocumentMoniker": "..\\..\\ConnectifyApp\\Connectify.DataService\\Services\\Interfaces\\ICommentService.cs",
               "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.DataService\\Services\\Interfaces\\ICommentService.cs",
-              "RelativeToolTip": "..\\Connectify.DataService\\Services\\Interfaces\\ICommentService.cs",
+              "RelativeToolTip": "..\\..\\ConnectifyApp\\Connectify.DataService\\Services\\Interfaces\\ICommentService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T17:13:38.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\Controllers\\BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\Controllers\\BaseController.cs",
               "RelativeToolTip": "Controllers\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,25 +132,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\Controllers\\PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\Controllers\\PostController.cs",
               "RelativeToolTip": "Controllers\\PostController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA9wEgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T17:11:41.571Z"
+              "WhenOpened": "2024-07-21T17:11:41.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\Controllers\\CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\Controllers\\CommentController.cs",
               "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Api\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Api\\Controllers\\CommentController.cs",
               "RelativeToolTip": "Controllers\\CommentController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAA6AAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wDgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T17:11:09.679Z",
               "EditorCaption": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Entities\\Connectify.Entities.csproj": {}
+    "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Entities\\Connectify.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Entities\\Connectify.Entities.csproj": {
+    "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Entities\\Connectify.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Entities\\Connectify.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Entities\\Connectify.Entities.csproj",
         "projectName": "Connectify.Entities",
-        "projectPath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Entities\\Connectify.Entities.csproj",
+        "projectPath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Entities\\Connectify.Entities.csproj",
         "packagesPath": "C:\\Users\\Davy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

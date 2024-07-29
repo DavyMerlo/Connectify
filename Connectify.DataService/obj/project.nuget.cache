@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7eKsRumXcpM=",
+  "dgSpecHash": "ntTAKdbEELA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\ConnectifyApp\\Connectify.DataService\\Connectify.DataService.csproj",
+  "projectFilePath": "C:\\Users\\Davy\\Documents\\ConnectifyApplication\\Connectify\\Connectify.DataService\\Connectify.DataService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Davy\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Davy\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

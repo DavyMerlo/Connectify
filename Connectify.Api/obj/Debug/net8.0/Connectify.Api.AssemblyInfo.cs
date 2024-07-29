@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Connectify.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+825530673e1f4d94e60ee2ce10217ac2c5e30493")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69f0900da302c36c045b3d8f25fa1d3cea6872e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Connectify.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Connectify.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
